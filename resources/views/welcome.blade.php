@@ -103,21 +103,21 @@
         </div>
         <div class="col s6">
             <div class="row">
-                <div class="col s12 m3">
+                <div class="col s7 m3">
                     <div class="card">
                         <div class="card-image">
                             <img src="/images/balfour-beatty.png" alt="Balfour Beatty" class="circle responsive-img">
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s7 m3">
                     <div class="card">
                         <div class="card-image">
                             <img src="/images/synergypal.png" alt="Synergy Pal" class="circle responsive-img">
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s7 m3">
                     <div class="card">
                         <div class="card-image">
                             <img src="/images/mittar.png" alt="Mittar" class="circle responsive-img">
@@ -127,27 +127,21 @@
             </div>
 
             <div class="row">
-                <div class="col s12 m3">
+                <div class="col s7 m3">
                     <div class="card">
                         <div class="card-image">
                             <img src="/images/crmple.png" alt="CRM:PLE" class="circle responsive-img">
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s7 m3">
                     <div class="card">
                         <div class="card-image">
                             <img src="/images/agency247.png" alt="Agency 247" class="circle responsive-img">
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="/images/avoin.png" alt="Avoin Maa Surveys" class="circle responsive-img">
-                        </div>
-                    </div>
-                </div>
+
             </div>
 
         </div>
@@ -160,20 +154,20 @@
         <h4 class="header">Our Work</h4>
         <div class="row">
             <div class="col s12 m4">
-                <img src="/images/wscc.png">
+                <img src="/images/wscc.png" class="responsive-img">
             </div>
 
             <div class="col s12 m4">
-                <img src="/images/mittar-site.png">
+                <img src="/images/mittar-site.png" class="responsive-img">
             </div>
 
             <div class="col s12 m4">
-                <img src="/images/crmple-site.png">
+                <img src="/images/crmple-site.png" class="responsive-img">
             </div>
         </div>
         <div class="row">
             <div class="col s12 m4">
-                <img src="/images/avoin-site.png">
+                <img src="/images/avoin-site.png" class="responsive-img">
             </div>
         </div>
     </div>
