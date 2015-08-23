@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Infinety
+        psr4_prefix: Infinety
+        src_path: app

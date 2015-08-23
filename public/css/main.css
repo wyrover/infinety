@@ -1,0 +1,35 @@
+/*
+ * Dark Blue #2c3e50
+ * Darker Blue #233140
+ * Green #18BC9C
+ */
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+.material-icons { color: #18BC9C;}
+.dark-blue {
+    background: #2c3e50!important;
+    color: #fff;
+    min-height: 120px;
+}
+.footer-copyright {
+    background:#233140!important;
+}
+
+footer .page-footer .dark-blue { background: #2c3e50!important; }
+.brand-logo {
+    margin: 18px 0px 0px 0px;
+}
+.caption {
+    margin-top: -15px;
+}
+.dark-blue .right {
+    margin: 30px 0px 0px 0px;
+}
+.dark-blue .right a { color:#fff; text-transform: uppercase; }
+.dark-blue .right a:hover { color: #18BC9C; text-transform: uppercase; }
+.button-collapse { padding: 26px 0px 0px 0px; }
+.content {
+    padding: 15px 0px 0px 0px;
+}
+.card-image { padding: 8px; }
