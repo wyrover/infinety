@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Materialize Demo</title>
-    <meta name="description" content="">
+    <title>Web Design Sheffield - InfinetyWeb</title>
+    <meta name="description" content="Infinety are a web development company based in Sheffield Shout Yorkshire, providing websites and web apps.">
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" media="screen,projection">
