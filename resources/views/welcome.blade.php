@@ -9,27 +9,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,300,500' rel='stylesheet' type='text/css'>
     <link type="text/css" rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/sweetalert.css">
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-    <nav class="dark-blue" role="navigation">
-        <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo"><img src="/images/infinety.png" alt="Infinety - Web Design Sheffield" width="150" class="responsive-img"></a>
-            {{--<ul class="right hide-on-med-and-down">--}}
-                {{--<li><a href="#">Web Development</a></li>--}}
-                {{--<li><a href="#">Media</a></li>--}}
-                {{--<li><a href="#">Web Apps</a></li>--}}
-            {{--</ul>--}}
-
-            {{--<!-- Mobile Nav -->--}}
-            {{--<ul id="nav-mobile" class="side-nav">--}}
-                {{--<li><a href="#">Web Development</a></li>--}}
-                {{--<li><a href="#">Media</a></li>--}}
-                {{--<li><a href="#">Web Apps</a></li>--}}
-            {{--</ul>--}}
-            {{--<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>--}}
-        </div>
-    </nav>
+    @include('partials.header')
 
     <div class="col s12">
         <div class="slider">
@@ -173,56 +158,6 @@
     </div>
 </div>
 
-<footer class="page-footer dark-blue">
-    <div class="container">
-        <div class="row">
-            <div class="col l6 s12">
-                <h5 class="white-text">Who are we?</h5>
-                <p class="grey-text text-lighten-4">
-                    We provide website development & design for everyone, from startup to fully established businesses.
-                    Each website we create is built from scratch to the highest of standards.
-                </p>
-            </div>
-
-            <div class="col l3 s12">
-                <ul>
-                    <li><a class="white-text" href=""><i class="fa fa-twitter fa-2x"></i> </a></li>
-                    <li><a class="white-text" href="#!"><i class="fa fa-linkedin fa-2x"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="footer-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col l8">
-                    &copy; {!! date('Y') !!} Infinety Web Ltd&nbsp;&bull;&nbsp;
-                    all rights reserved
-                </div>
-                <div class="col l4 right-align">
-                    Made by Infinety
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-
-<!--Import jQuery and materialize.js-->
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
-<script>
-    $(document).ready(function(){
-        // Responsive Nav
-        $(".button-collapse").sideNav();
-        // Material box
-        $('.materialboxed').materialbox();
-        // Slider
-        $('.slider').slider({
-            indicators: false
-        });
-        // Parallax
-        $('.parallax').parallax();
-    });
-</script>
+@include('partials.footer')
 </body>
 </html>

@@ -6,6 +6,13 @@
 html {
     font-family: 'Ubuntu', sans-serif;
 }
+a{ color: #18BC9C; }
+a:hover {
+    color: #2C3E50;
+    text-decoration: none;
+}
+.move { margin: 0px 0px 0px 60px!important; }
+
 .material-icons { color: #18BC9C;}
 .dark-blue {
     background: #2c3e50!important;
@@ -34,7 +41,10 @@ footer .page-footer .dark-blue { background: #2c3e50!important; }
 }
 .clients { color: #fff; background: url('https://unsplash.imgix.net/24/DSC02021.JPG?fit=crop&fm=jpg&h=700&q=75&w=1950') bottom no-repeat; width: 100%;}
 .card-image { padding: 8px; }
+.blur { color: #fff; background: url('http://wallpaper-download.net/wallpapers/abstract-wallpapers-blurred-background-wallpaper-34795.jpg') no-repeat; width: 100%;}
+
 
 @media only screen and (max-width: 450px) {
     .clients { background: transparent; color: #111; }
+    .move { margin: 0px 0px 0px 0px!important; }
 }
