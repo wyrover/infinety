@@ -25,7 +25,8 @@
                     all rights reserved
                 </div>
                 <div class="col l4 right-align">
-                    Made by Infinety
+                    Made by Infinety<br />
+                    Get in Touch: 0330 133 0600
                 </div>
             </div>
         </div>
