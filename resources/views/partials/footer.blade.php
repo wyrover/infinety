@@ -22,11 +22,10 @@
             <div class="row">
                 <div class="col l8">
                     &copy; {!! date('Y') !!} Infinety Web Ltd&nbsp;&bull;&nbsp;
-                    all rights reserved
+                    all rights reserved&nbsp;&nbsp;&bull;&nbsp;Get in Touch: 0330 133 0600
                 </div>
                 <div class="col l4 right-align">
-                    Made by Infinety<br />
-                    Get in Touch: 0330 133 0600
+                    Made by Infinety
                 </div>
             </div>
         </div>
