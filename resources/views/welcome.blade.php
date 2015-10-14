@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Web Design Sheffield - InfinetyWeb</title>
-    <meta name="description" content="Infinety are a web development company based in Sheffield Shout Yorkshire, providing websites and web apps.">
+    <meta name="description" content="Infinety are a web development company based in Sheffield South Yorkshire, providing websites and web apps.">
     <meta name="google-site-verification" content="YugI05oBwuheA5j9TUII1FX9Bpq2u5w74bDCLkjal2A" />
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
