@@ -22,7 +22,7 @@
             @foreach($posts as $post)
                 <div class="row">
                     <div class="col s12 m12">
-                        <div class="card">
+                        <div class="card hoverable">
                             <div class="card-content">
                                 <span class="card-title"><a href="/blog/{!! $post->title !!}">{!! ucwords($post->title) !!}</a></span>
                                 <p>{!! nl2br($post->content) !!}</p>
