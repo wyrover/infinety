@@ -43,7 +43,10 @@ footer .page-footer .dark-blue { background: #2c3e50!important; }
 .card-image { padding: 8px; }
 .blur { color: #fff; background: url('http://wallpaper-download.net/wallpapers/abstract-wallpapers-blurred-background-wallpaper-34795.jpg') no-repeat; width: 100%;}
 
-
+.prettyprint {
+    border: 1px solid #e3e3e3!important;
+    color: #18BC9C!important;
+}
 @media only screen and (max-width: 450px) {
     .clients { background: transparent; color: #111; }
     .move { margin: 0px 0px 0px 0px!important; }
