@@ -48,6 +48,7 @@ code {
     font-size: 12px!important;
     background-color: #e3e3e3!important;
     color: #18BC9C!important;
+    padding: 5px 10px 5px 10px!important;
 }
 
 @media only screen and (max-width: 450px) {
