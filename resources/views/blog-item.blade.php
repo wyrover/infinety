@@ -22,6 +22,10 @@
             <p>{!! nl2br($post->content) !!}</p>
             <br />
             <small>Posted {!! date('d/m/y', strtotime($post->created_at)) !!}</small>
+            <div class="chip">
+                {!! $post->category !!}
+                <i class="material-icons">room</i>
+            </div>
         </div>
     </div>
     <div class="divider"></div>
