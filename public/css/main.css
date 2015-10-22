@@ -53,11 +53,10 @@ code {
     font-size: 12px!important;
     background-color: #e3e3e3!important;
     color: #18BC9C!important;
-    padding: 12px;
+    padding: 12px!important;
     border-radius: 5px!important;
     -moz-border-radius: 5px!important;
     -webkit-border-radius: 5px!important;
-    margin: 1em 0!important;
 }
 
 @media only screen and (max-width: 450px) {
