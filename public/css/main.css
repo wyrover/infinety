@@ -42,12 +42,26 @@ footer .page-footer .dark-blue { background: #2c3e50!important; }
 .clients { color: #fff; background: url('https://unsplash.imgix.net/24/DSC02021.JPG?fit=crop&fm=jpg&h=700&q=75&w=1950') bottom no-repeat; width: 100%;}
 .card-image { padding: 8px; }
 .blur { color: #fff; background: url('http://wallpaper-download.net/wallpapers/abstract-wallpapers-blurred-background-wallpaper-34795.jpg') no-repeat; width: 100%;}
-code {
-    font-family: "Bell MT";
-    border: 1px solid #e3e3e3;
-    padding: 8px;
-}
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;}
 
+code {
+    font-family: Courier, 'New Courier', monospace;
+    font-size: 12px;}
+
+#codeStyler {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 1em 0;}
+
+.computerGreen {
+    background-color: #e3e3e3;
+    color: #18BC9C;
+}
 @media only screen and (max-width: 450px) {
     .clients { background: transparent; color: #111; }
     .move { margin: 0px 0px 0px 0px!important; }
