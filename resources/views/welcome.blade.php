@@ -24,16 +24,24 @@
                 <li>
                     <img src="https://ununsplash.imgix.net/photo-1421757295538-9c80958e75b0?fit=crop&fm=jpg&h=700&q=90&w=1050"> <!-- random image -->
                     <div class="caption center-align">
-                        <h3>User Friendly Websites</h3>
-                        <h5 class="light grey-text text-lighten-3">Custom user friendly websites to<br />help you and your business</h5>
+                        <h3 class="bg">User Friendly Websites</h3>
+                        <h5 class="bg">Custom user friendly websites to<br />help you and your business</h5>
                     </div>
                 </li>
 
                 <li>
                     <img src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?fit=crop&fm=jpg&h=700&q=90&w=1050"> <!-- random image -->
                     <div class="caption center-align">
-                        <h3>Endless Possibilities</h3>
-                        <h5 class="light grey-text text-lighten-3">Creative websites that work for you</h5>
+                        <h3 class="bg">Endless Possibilities</h3><br />
+                        <h5 class="bg">Creative websites that work for you</h5>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="https://images.unsplash.com/uploads/1413349410189e2a95d2e/39982a21?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1050"> <!-- random image -->
+                    <div class="caption center-align">
+                        <h3 class="bg">We Design, Develop &amp; Deliver</h3>
+                        <h5 class="bg">Innovative digital experiences</h5>
                     </div>
                 </li>
             </ul>
@@ -159,6 +167,51 @@
         </div>
     </div>
 </div>
+
+    <div class="section blur">
+        <div class="row container">
+            <h4>Contact Us</h4>
+            <p>Send us a message or give us a call. We’d love to hear about your project.</p>
+            <br />
+            {!! Form::open(['url' => 'contact', 'class' => 'form-horizontal']) !!}
+
+            <div class="form-group">
+                {!! $errors->first('name', '<span class="red-text">:message</span>') !!}
+                <div class="col-sm-2">Name</div>
+                <div class="col-lg-6">
+                    <input type="text" name="name" class="form-control" value="{!! old('name') !!}">
+                </div>
+            </div>
+
+            <div class="form-group">
+                {!! $errors->first('email', '<span class="red-text">:message</span>') !!}
+                <div class="col-sm-2">Email</div>
+                <div class="col-lg-6">
+                    <input type="text" name="email" class="form-control" value="{!! old('email') !!}">
+                </div>
+            </div>
+
+            <div class="form-group">
+                {!! $errors->first('body', '<span class="red-text">:message</span>') !!}
+                <div class="col-sm-2">Message</div>
+                <div class="col-lg-5">
+                    <textarea name="body" class="materialize-textarea" rows="10" length="250">{!! old('body') !!}</textarea>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-2"></div>
+                <div class="col-lg-5">
+                    <div class="g-recaptcha" data-sitekey="6LeStAsTAAAAAPrMukC9MHsWNaCaw2WNKxUg7c-R"></div>
+                </div>
+            </div>
+            <br />
+            <button class="btn waves-effect waves-light" type="submit">Send
+                <i class="material-icons">send</i>
+            </button>
+            {!! Form::close() !!}<br />
+            </div>
+        </div>
 
 @include('partials.footer')
 

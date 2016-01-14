@@ -63,7 +63,7 @@
 
 
             {!! Form::close() !!}<br />
-            Alternatively you can call us on 0330 133 0600
+
         </div>
     </div>
     <div class="divider"></div>
