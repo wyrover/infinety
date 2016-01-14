@@ -4,7 +4,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-get('web-development', function(){
+get('web-development-sheffield', function(){
    return view('web');
 });
 

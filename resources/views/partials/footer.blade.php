@@ -11,8 +11,8 @@
 
             <div class="col l3 s12">
                 <ul>
-                    <li><a class="white-text" href=""><i class="fa fa-twitter fa-2x"></i> </a></li>
-                    <li><a class="white-text" href="#!"><i class="fa fa-linkedin fa-2x"></i></a></li>
+                    <li><a class="white-text" href="https://twitter.com/infinety_web"><i class="fa fa-twitter fa-2x"></i> </a></li>
+                    {{--<li><a class="white-text" href="#!"><i class="fa fa-linkedin fa-2x"></i></a></li>--}}
                 </ul>
             </div>
         </div>
@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col l8">
                     &copy; {!! date('Y') !!} Infinety Web Ltd&nbsp;&bull;&nbsp;
-                    all rights reserved&nbsp;&nbsp;&bull;&nbsp;Get in Touch: 0330 133 0600
+                    all rights reserved
                 </div>
                 <div class="col l4 right-align">
                     Made by Infinety

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Development Sheffield - InfinetyWeb</title>
-    <meta name="description" content="Website development Sheffield, building websites, e-commerce & web apps since 2007">
+    <title>Web Design Sheffield - InfinetyWeb</title>
+    <meta name="description" content="web design sheffield, building websites from brochure sites to e-commerce websites in South Yorkshire.">
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" media="screen,projection">
@@ -32,10 +32,13 @@
             </p>
             <h5>Services</h5>
             <ul>
-                <li><i class="tiny material-icons">done</i> E-commerce Websites</li>
+                <li><i class="tiny material-icons">done</i> E-Commerce Websites</li>
                 <li><i class="tiny material-icons">done</i> Content Managed Websites</li>
                 <li><i class="tiny material-icons">done</i> Bespoke Web Applications</li>
                 <li><i class="tiny material-icons">done</i> Micro Websites</li>
+                <li><i class="tiny material-icons">done</i> CRM Systems</li>
+                <li><i class="tiny material-icons">done</i> Bespoke Websites</li>
+                <li><i class="tiny material-icons">done</i> Brochure Websites</li>
             </ul>
         </div>
 
