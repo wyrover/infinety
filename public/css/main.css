@@ -65,6 +65,7 @@ pre {
 }
 
 code {
+
     font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
     font-size: 95%;
     line-height: 140%;
@@ -72,7 +73,8 @@ code {
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-    background: #faf8f0;
+    background: #c4e3f3;
+    border: 2px solid;
 }
 
 #content code {
