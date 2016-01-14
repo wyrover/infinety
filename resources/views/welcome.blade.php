@@ -21,13 +21,6 @@
     <div class="col s12">
         <div class="slider">
             <ul class="slides">
-                <li>
-                    <img src="https://ununsplash.imgix.net/photo-1421757295538-9c80958e75b0?fit=crop&fm=jpg&h=700&q=90&w=1050"> <!-- random image -->
-                    <div class="caption center-align">
-                        <h3 class="bg">User Friendly Websites</h3>
-                        <h5 class="bg">Custom user friendly websites to<br />help you and your business</h5>
-                    </div>
-                </li>
 
                 <li>
                     <img src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?fit=crop&fm=jpg&h=700&q=90&w=1050"> <!-- random image -->
