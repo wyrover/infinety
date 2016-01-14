@@ -11,10 +11,16 @@
 
             <div class="col l3 s12">
                 <ul>
-                    <li><a class="white-text" href="https://twitter.com/infinety_web"><i class="fa fa-twitter fa-2x"></i> </a></li>
-                    {{--<li><a class="white-text" href="#!"><i class="fa fa-linkedin fa-2x"></i></a></li>--}}
+                    <li>&nbsp;</li>
                 </ul>
             </div>
+
+            <div class="col l3 s12">
+                <h5 class="white-text">Our Latest Tweets</h5>
+                <a class="twitter-timeline" href="https://twitter.com/infinety_web" data-widget-id="687760029018140672" data-chrome="transparent noheader noborders nofooter"></a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </div>
+
         </div>
     </div>
     <div class="footer-copyright">
