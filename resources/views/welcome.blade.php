@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Design Sheffield - InfinetyWeb</title>
-    <meta name="description" content="Infinety are a web development company based in Sheffield South Yorkshire, providing websites and web apps.">
+    <title>Web Design Sheffield, web design and development - InfinetyWeb</title>
+    <meta name="description" content="web design and development, web design sheffield from Infinety company based in Sheffield, South Yorkshire, providing websites and web apps.">
     <meta name="google-site-verification" content="YugI05oBwuheA5j9TUII1FX9Bpq2u5w74bDCLkjal2A" />
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -51,7 +51,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text"><i class="medium material-icons">done</i></h2>
-                        <h5 class="center">Web Development</h5>
+                        <h5 class="center">Web Design and Development</h5>
 
                         <p class="light">Websites of today should be easy to use, look great and work across all devices and that's what we do best. Using our experience we combine design and development to give you a website which you and your customers will adore.</p>
                     </div>
@@ -60,7 +60,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text"><i class="medium material-icons">group</i></h2>
-                        <h5 class="center">User Friendly Website</h5>
+                        <h5 class="center">User Friendly Websites</h5>
 
                         <p class="light">Focusing on the design and usability of a website is key in every sector, we use our experience and tech know how to make this happen. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
                     </div>
