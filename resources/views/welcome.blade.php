@@ -141,7 +141,7 @@
 
 <div class="section white">
     <div class="row container">
-        <h4 class="header">Our Work</h4>
+        <h4 class="header">Our Work - Web Design Sheffield</h4>
         <div class="row">
             <div class="col s12 m4">
                 <img src="/images/wscc.png" class="responsive-img">
