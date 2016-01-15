@@ -86,9 +86,10 @@
         <div class="col s6">
             <p class="light">
                 We’ve worked with some awesome clients over the years, from well known brands to small start-up companies,
-                including construction companies, SaaS products, online Clothing &amp; Survey maintenance.<br />All of which have their own demands and requirements.
+                including construction companies, SaaS products, e-commerce companies &amp; survey maintenance.<br />All of which have their own demands and requirements.
                 Working with each and every one has been a pure pleasure, so what ever the size of your business, get in touch today and see how we can help you.
             </p>
+            <p style="visibility: hidden;">web design sheffield, web design barnsley.</p>
         </div>
         <div class="col s6">
             <div class="row">
