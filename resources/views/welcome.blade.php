@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Design Sheffield, web design barnsley and web development - InfinetyWeb</title>
-    <meta name="description" content="web design and development, web design sheffield, web design barnsley from Infinety company based in Sheffield, South Yorkshire.">
+    <title>Web Design Sheffield, Infinety Sheffield Website Design</title>
+    <meta name="description" content="Web Design Sheffield. Infinety are a website development agency based in Sheffield, South Yorkshire. Providing custom website design &amp; development.">
     <meta name="google-site-verification" content="YugI05oBwuheA5j9TUII1FX9Bpq2u5w74bDCLkjal2A" />
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -51,7 +51,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center brown-text"><i class="medium material-icons">done</i></h2>
-                        <h5 class="center">Web Design and Development</h5>
+                        <h5 class="center">Web Design Sheffield, Sheffield Website Design</h5>
 
                         <p class="light">Websites of today should be easy to use, look great and work across all devices and that's what we do best. Using our experience we combine design and development to give you a website which you and your customers will adore.</p>
                     </div>
