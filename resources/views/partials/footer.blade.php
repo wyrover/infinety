@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">Who are we?</h5>
+                <h5 class="white-text">Web Design Sheffield, Web Design Barnsley</h5>
                 <p class="grey-text text-lighten-4">
-                    We provide website development & design for everyone, from startup to fully established businesses.
+                    We provide web development & design for everyone, from startup to fully established businesses.
                     Each website we create is built from scratch to the highest of standards.
                 </p>
             </div>
