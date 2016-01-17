@@ -37,11 +37,19 @@
         </div>
     </div>
 </footer>
-<p>Directory of <a href='http://www.rotherham.co.uk/web-development/'>Rotherham Web Development</a> - <a href='http://www.rotherham.co.uk/'> Rotherham</a></p>
+<p style="display:none;">Directory of <a href='http://www.rotherham.co.uk/web-development/'>Rotherham Web Development</a> - <a href='http://www.rotherham.co.uk/'> Rotherham</a></p>
 <!--Import jQuery and materialize.js-->
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 <script type="text/javascript" src="/js/sweet.js"></script>
+<script src="https://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
+<script type="text/javascript">
+    (function(jQuery){
+        jQuery( document ).ready( function() {
+            prettyPrint();
+        } );
+    }(jQuery))
+</script>
 @include('flash')
 <script>
     $(document).ready(function(){
