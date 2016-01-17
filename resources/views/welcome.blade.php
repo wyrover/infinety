@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Web Design Sheffield, Infinety Sheffield Website Design</title>
-    <meta name="description" content="Web Design Sheffield. Infinety are a website development agency based in Sheffield, South Yorkshire. Providing custom website design &amp; development.">
+    <meta name="description" content="Web Design Sheffield. Professional website development agency based in Sheffield, South Yorkshire. Providing custom website design &amp; development.">
     <meta name="google-site-verification" content="YugI05oBwuheA5j9TUII1FX9Bpq2u5w74bDCLkjal2A" />
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

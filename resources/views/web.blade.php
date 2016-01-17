@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Design Sheffield - InfinetyWeb</title>
-    <meta name="description" content="web design sheffield, building websites from brochure sites to e-commerce websites in South Yorkshire.">
+    <title>Web Design Sheffield - Sheffield Website Design</title>
+    <meta name="description" content="Web Design Sheffield. Professional website development agency based in Sheffield, South Yorkshire. Building websites from brochure to e-commerce websites.">
     <!--Import materialize.css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css" media="screen,projection">
@@ -18,7 +18,7 @@
 <div class="container content">
     <div class="row">
         <div class="section">
-            <h4>Web Design &amp; Development</h4>
+            <h4>Web Design Sheffield</h4>
             <p>
                 Web design and web development work hand in hand from the start of the design process so your website will be accessible to everyone and look awesome.
                 <br />
