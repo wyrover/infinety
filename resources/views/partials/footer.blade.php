@@ -42,15 +42,7 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 <script type="text/javascript" src="/js/sweet.js"></script>
-<script src="https://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
-<script type="text/javascript">
-    (function(jQuery){
-        jQuery( document ).ready( function() {
-            prettyPrint();
-        } );
-    }(jQuery))
-</script>
-@include('flash')
+<script src="/js/prism.js"></script>
 <script>
     $(document).ready(function(){
         // Responsive Nav
